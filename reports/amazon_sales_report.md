@@ -1,5 +1,19 @@
 # Amazon Sales Report
 
+## Table of Contents
+
+- [Analysis Observations](#analysis-observations)
+- [Data Visualizations](#data-visualizations)
+  - [Monthly Sales](#monthly-sales)
+  - [Daily Sales](#daily-sales)
+  - [City Orders](#city-orders)
+  - [City Sales](#city-sales)
+  - [State Orders](#state-orders)
+  - [State Sales](#state-sales)
+- [License](#license)
+
+## Analysis Observations
+
 From the data visualizations, it can be observed that:
 
 - there has been a steady decrease in sales from April 2022 - June 2022
@@ -41,3 +55,7 @@ From the data visualizations, it can be observed that:
 [city_sales]: figures/city_sales.png
 [state_orders]: figures/state_orders.png
 [state_sales]: figures/state_sales.png
+
+## License
+
+MIT License
