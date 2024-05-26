@@ -10,7 +10,6 @@
   - [City Sales](#city-sales)
   - [State Orders](#state-orders)
   - [State Sales](#state-sales)
-- [License](#license)
 
 ## Analysis Observations
 
@@ -55,7 +54,3 @@ From the data visualizations, it can be observed that:
 [city_sales]: figures/city_sales.png
 [state_orders]: figures/state_orders.png
 [state_sales]: figures/state_sales.png
-
-## License
-
-MIT License
